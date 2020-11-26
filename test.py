@@ -1,7 +1,2 @@
-merge two branch
-print('ni hao ')
-master branch
-=======
-hello main
-ni hao 
-
+#encoding:utf-8
+print('这是一个demo，测试git push 及 pull')
